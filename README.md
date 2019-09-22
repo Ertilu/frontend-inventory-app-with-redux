@@ -1,41 +1,41 @@
+# Frontend Inventory App with hooks
+
+![ezgif com-resize](https://user-images.githubusercontent.com/53091940/65389856-72071880-dd84-11e9-8fcc-70b977167415.gif)
+
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/paper-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/paper-dashboard-react.svg?maxAge=2592000)]()  [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+
+This repo related to previous project https://github.com/Ertilu/frontend-inventory-app but in this project use hooks for management state in CRUD Feature of category.
+
+## Created with
+
+| React JS | Node JS | Template By | Database Management | Code Editor |
+| --- | --- | --- | --- | --- |
+| [![React JS](https://hackernoon.com/hn-images/1*-Ijet6kVJqGgul6adezDLQ.png)](https://reactjs.org) | [![Node JS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)](https://nodejs.org/en/) | [![Creative Tim ](https://demos.creative-tim.com/paper-dashboard/assets/img/logo-small.png)](https://www.creative-tim.com/) | [![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png)](https://www.mysql.com/) | [![Code Editor](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/)
+
+## Table of Contents
+
+* [How to run the app](#How-to-run-the-app)
+* [Features](#features)
+* [Browser Support](#browser-support)
+* [Resources](#resources)
+* [Licensing](#licensing)
+
+## How to run the app
+Backend server :
+https://github.com/Ertilu/restful-api-inventory-app
+
+Quick start options:
+
+- Clone the repo: `git clone https:/https://github.com/Ertilu/frontend-inventory-app-with-hooks.git`.
+- `npm/yarn install frontend-inventory-app-with-hooks`
+- Clone the backend server: `https://github.com/Ertilu/restful-api-inventory-app.git`.
+- `npm/yarn install restful-api-inventory-app`
+- Import database "db_inventory.sql".
+- Run the backend `node app`.
+- Run the app `npm start`.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
@@ -63,6 +63,29 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+### Features
+- Get Products
+- Query string (sort, sortBy, limitation products in one page, pagination, search)
+- Edit product
+- Delete product
+- Add product
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Browser Support
+
+At present, we officially aim to support the last two versions of the following browsers:
+
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
+
+
+## Resources
+- Demo: https://demos.creative-tim.com/paper-dashboard-react/#/dashboard
+- Download Page: https://www.creative-tim.com/product/paper-dashboard-react
+- Documentation: https://demos.creative-tim.com/paper-dashboard-react/#/documentation/tutorial
+- License Agreement: https://www.creative-tim.com/license
+- Support: https://www.creative-tim.com/contact-us
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/paper-dashboard-react/issues)
+
+## Licensing
+
+- Copyright 2018 Creative Tim (https://www.creative-tim.com)
+- Licensed under MIT (https://github.com/creativetimofficial/paper-dashboard-react/blob/master/LICENSE.md)
