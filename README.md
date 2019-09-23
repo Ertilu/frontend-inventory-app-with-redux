@@ -1,6 +1,6 @@
 # Frontend Inventory App with redux
 
-![ezgif com-resize](https://user-images.githubusercontent.com/53091940/65389856-72071880-dd84-11e9-8fcc-70b977167415.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/53091940/65399988-d90ae880-dde9-11e9-97d8-022f30f5ee56.gif)
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/paper-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/paper-dashboard-react.svg?maxAge=2592000)]()  [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
