@@ -26,7 +26,7 @@ https://github.com/Ertilu/restful-api-inventory-app
 Quick start options:
 
 - Clone the repo: `git clone https:/https://github.com/Ertilu/frontend-inventory-app-with-redux.git`.
-- `npm/yarn install frontend-inventory-app-with-reduxhooks`
+- `npm/yarn install frontend-inventory-app-with-redux`
 - Clone the backend server: `https://github.com/Ertilu/restful-api-inventory-app.git`.
 - `npm/yarn install restful-api-inventory-app`
 - Import database "db_inventory.sql".
