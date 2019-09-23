@@ -8,9 +8,9 @@ This repo related to previous project https://github.com/Ertilu/frontend-invento
 
 ## Created with
 
-| React JS | Node JS | Template By | Database Management | Code Editor |
+| React JS | Node JS | State Management | Database Management | Code Editor |
 | --- | --- | --- | --- | --- |
-| [![React JS](https://cdn.auth0.com/blog/react-js/react.png)](https://reactjs.org) | [![Node JS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)](https://nodejs.org/en/) | [![Creative Tim ](https://demos.creative-tim.com/paper-dashboard/assets/img/logo-small.png)](https://www.creative-tim.com/) | [![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png)](https://www.mysql.com/) | [![Code Editor](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/)
+| [![React JS](https://cdn.auth0.com/blog/react-js/react.png)](https://reactjs.org) | [![Node JS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)](https://nodejs.org/en/) | [![Redux ](https://redux.js.org/img/redux.svg)](https://redux.js.org) | [![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png)](https://www.mysql.com/) | [![Code Editor](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/)
 
 ## Table of Contents
 
