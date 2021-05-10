@@ -17,7 +17,7 @@
     "glamor": "^2.20.40",
     "glamorous": "^4.11.2",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "react": "^16.2.0",
     "react-confirm-alert": "^2.4.1",
     "react-dom": "^16.2.0",
